@@ -1,0 +1,8 @@
+ID#Kategori#Nama#Harga#Foto
+1#keyboard#Keychron K2 WHITE Backlight PLASTIC Frame Wireless Mechanical Keyboard - Red Switch#990.000#design-medium.jpg
+2#keyboard#LG UltraGear™ 24GN600-B 23.8'' FHD IPS Gaming Monitor AMD FreeSync#2.799.000#img2.jpg
+3#gpu#Zotac GTX 1650 4GB ddr6  Super Twinfan#2.380.000#zt-t16510f-10l-image7.jpg
+4#cpu#AMD Ryzen 5 3600 Series#3.800.000#large_amd-ryzen-5-3600-cpu-002.jpg
+5#cooling#Cooler Master Liquid cooler ML240R ARGB#1.350.000#masterliquid-ml240r-rgb-380x380-1-hover.gif
+6#motherboard#ASUS B250 MINING EXPERT MOTHERBOARD#1.350.000#P_setting_xxx_0_90_end_500.png
+7#mouse#Logitech G Pro Wireless superlight gaming mouse#978.000#pro-x-superlight-black-gallery-1.png
